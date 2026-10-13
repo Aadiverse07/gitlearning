@@ -7,3 +7,4 @@
 // git branch branch name 
 // git checkout branch name ( jump to branch name )
 // git merge branch name ( merge branch name to current branch )
+// git switch -d branch name ( delete branch name )
